@@ -1,0 +1,11 @@
+numpy==1.23.5
+tensorflow==2.12.0
+tensorflow-estimator==2.12.0
+gunicorn==20.1.0
+requests==2.31.0
+Flask==2.3.2
+googlemaps==4.10.0
+google-cloud-storage==2.9.0
+keras==2.12.0
+nltk==3.8.1
+Pillow==9.5.0

@@ -3,7 +3,7 @@ import googlemaps
 
 app = Flask(__name__)
 
-API_KEY = 'AIzaSyChZ6SVW7w4pyTvnx7vNP36Q73tfhJxWGc'
+API_KEY = 'AIzaSyCguJFD_30R_if-dbXuIUXEG71j1Fhuxjo'
 gmaps = googlemaps.Client(key=API_KEY)
 
 @app.route('/nearby_hospitals', methods=['GET'])
